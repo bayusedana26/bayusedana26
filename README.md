@@ -1,6 +1,6 @@
 # Hi there 📱🧑‍💻🤖
 
-I'm passionate about mobile development, specializing in iOS native and Flutter, with a focus on building high-quality, scalable, and user-friendly applications
+I'm passionate about backend dev & mobile development specializing in iOS native and Flutter. Focus on building high-quality, scalable, and user-friendly applications
 
 ## 🔧 Technologies & Tools
 
