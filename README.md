@@ -1,8 +1,9 @@
 # Hi there 👋🧑‍💻  
 
-I'm transitioning from a **Backend Developer (4+ years)** into a **System Analyst (SA)** role.  
-My background in backend development and QA gives me a unique advantage:  
-I don’t just write code and tests, but also **analyze requirements, design system integrations, and communicate with clients/stakeholders** to ensure business needs are translated into scalable, high-quality solutions.  
+I'm expanding expertise from a **Backend Developer (4+ years)** into a **System Analyst (SA)** role.
+
+I don’t just write code and tests, but also **analyze requirements, design system integrations, and communicate with clients/stakeholders** to ensure business needs are translated into
+scalable, high-quality solutions.  
 
 ## 🔧 Technologies & Tools  
 
