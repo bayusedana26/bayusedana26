@@ -45,17 +45,7 @@ scalable, high-quality solutions.
 ### 🤝 Collaboration & Project Management  
 - Agile/Scrum Methodology  
 - Tools: Jira, Confluence, Trello, Slack  
-- CI/CD Understanding for Testing & Deployment  
-
-## 📊 GitHub Stats  
-
-<a href="https://github.com/bayusedana26">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayusedana26&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=html,css,less,scss,jupyter%20notebook,blade,pug" />
-</a>
-
-<a href="https://github.com/bayusedana26">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bayusedana26&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bayu's GitHub Stats" />
-</a>
+- CI/CD Understanding for Testing & Deployment
 
 ## 🧑‍💻 Reach Me  
 
