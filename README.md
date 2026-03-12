@@ -1,6 +1,6 @@
 # Hi there 👋🧑‍💻  
 
-I'm expanding expertise from a **Backend Developer (4+ years)** into a **System Analyst (SA)** role.
+I'm expanding expertise from a **Backend Developer (5+ years)** into a **Managerial** role.
 
 I don’t just write code and tests, but also **analyze requirements, design system integrations, and communicate with clients/stakeholders** to ensure business needs are translated into
 scalable, high-quality solutions.  
