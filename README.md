@@ -1,132 +1,197 @@
-<div align="center">
+ <div align="center">
 
-# Bayu Sedana
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,50:2563EB,100:60A5FA&height=200&section=header&text=Bayu%20Sedana&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=Software%20%7C%20Data%20%7C%20Applied%20AI%20%7C%20Technical%20Training&descAlignY=58&descSize=16"/>
 
-### Software · Data · Applied AI
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Building+practical+technology+solutions;Turning+data+into+useful+insights;Exploring+applied+AI+and+automation;Making+technology+easier+to+understand" alt="Typing SVG"/>
+</a>
 
-**Turning technical complexity into practical solutions.**
+<br/>
 
-<p>
-  <a href="https://bayusedana26.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-172554?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/bayusedana/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://medium.com/@bayusedana26">
-    <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium">
-  </a>
-</p>
+<a href="https://bayusedana26.github.io/"><img src="https://img.shields.io/badge/Portfolio-172554?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/bayusedana/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://medium.com/@bayusedana26"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
 
-<img src="https://tenor.com/bi4Yp.gif" width="110" alt="Pixel chicken GIF">
+<br/><br/>
 
-<sub>Professional skills. Unprofessional chicken energy.</sub>
+<img src="https://media.tenor.com/bi4Yp.gif" width="100" alt="Dancing chicken"/>
+
+<sub>Serious about technology. Not always serious about chickens.</sub>
 
 </div>
 
 ---
 
-## `whoami`
-
-I'm a technology professional with **5+ years of backend development experience**, with interests and work spanning software engineering, data analytics, applied AI, and technical training.
-
-I enjoy connecting the technical details with the bigger picture: understanding requirements, designing integrations, analyzing data, and helping people use technology to solve practical problems.
-
-> **Build solutions. Analyze data. Make technology easier to use.**
-
-## What I Work On
+## About Me
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td valign="top" width="60%">
+
+I'm Bayu Sedana, a technology professional with **5+ years of backend development experience** and interests spanning software engineering, data analytics, applied AI, and technical training.
+
+My work goes beyond writing code. I enjoy understanding business requirements, connecting systems, exploring data, and translating technical concepts into practical solutions.
+
+I also work in technology education, sharing knowledge through training, mentoring, and hands-on learning experiences.
+
+**What drives me?** Making technology useful, understandable, and accessible.
+
+</td>
+<td valign="top" width="40%">
+
+### Current Interests
+
+```yaml
+focus:
+  - Software Engineering
+  - Data Analytics
+  - Applied AI
+  - Workflow Automation
+  - Technical Training
+
+approach:
+  - Understand the problem
+  - Explore the data
+  - Build practical solutions
+  - Share what I learn
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## What I Do
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### Software Engineering
 
-Backend development, REST APIs, database design, system integration, and software quality assurance.
+Backend development, REST API development, database design, system integration, and software testing.
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td valign="top" width="50%">
 
 ### Data Analytics & AI
 
-Python-based data processing, exploratory data analysis, visualization, and practical AI workflows.
+Data cleaning, exploratory data analysis, visualization, machine learning fundamentals, and practical AI workflows.
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-### Requirements & System Design
+### Technical Consulting
 
-Requirements documentation, process modeling, API integration, and translating business needs into technical solutions.
+Requirements analysis, technical documentation, system design, workflow analysis, and connecting business needs with implementation.
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td valign="top" width="50%">
 
-### Training & Knowledge Sharing
+### Training & Mentoring
 
-Practical learning and mentoring around Python, data analytics, AI, and technology for different audiences.
+Practical learning experiences around Python, data analytics, AI, and technology for students and professionals.
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
-
-## Tech Stack & Tools
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Backend & APIs**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-172554?style=flat-square)
-
-**Data & Databases**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Testing & Quality Assurance**
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
-
-**Workflow & Collaboration**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-
-## Beyond the Code
-
-I'm interested in the space where technology meets real-world work: making data understandable, explaining technical concepts clearly, and finding practical ways to use AI and automation.
-
-I value solutions that are not only technically sound, but also understandable, maintainable, and useful to the people who rely on them.
-
-## Find Me Online
-
-- **Portfolio:** [bayusedana26.github.io](https://bayusedana26.github.io/)
-- **LinkedIn:** [linkedin.com/in/bayusedana](https://www.linkedin.com/in/bayusedana/)
-- **Medium:** [medium.com/@bayusedana26](https://medium.com/@bayusedana26)
-
-<div align="center">
 
 ---
 
-<sub>Made with curiosity, practical problem-solving, and one very hardworking chicken.</sub>
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="150"><b>Languages</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=python,js,java&theme=light" alt="Python, JavaScript, Java"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Backend & APIs</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=nodejs,django,flask,fastapi&theme=light" alt="Backend technologies"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Data & Databases</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,jupyter&theme=light" alt="Data and databases"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Testing & QA</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=postman,selenium,cypress&theme=light" alt="Testing tools"/>
+
+&nbsp; Playwright · Katalon · JMeter · k6
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Tools & Workflow</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,linux&theme=light" alt="Developer tools"/>
+
+&nbsp; Jira · Confluence · Trello · GitHub Actions
+
+</td>
+</tr>
+</table>
+
+---
+
+## Beyond the Code
+
+I believe good technology is not just about making something work. It is about solving the right problem, communicating clearly, and making the solution useful for the people who need it.
+
+I'm particularly interested in the intersection of **software, data, AI, and education** — where technical skills can help simplify everyday work and support better decisions.
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://bayusedana26.github.io/"><img src="https://img.shields.io/badge/Explore%20My%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/bayusedana/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://medium.com/@bayusedana26"><img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
 
 </div>
+
+---
+
+<div align="center">
+
+### GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=bayusedana26&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayusedana26&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" height="165" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bayusedana26&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://media.tenor.com/bi4Yp.gif" width="75" alt="Chicken dancing again"/>
+
+<sub>Keep learning. Keep building. Keep the chicken dancing.</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:2563EB,100:172554&height=100&section=footer" alt="Footer"/>
